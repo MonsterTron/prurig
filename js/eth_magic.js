@@ -15,7 +15,7 @@ window.addEventListener('load', function () {
 });
 // WEB3 INIT DONE!
 
-const contract_address = "0x631CdDd1E7c94c2C602374B0D306cd2FF3839d55";
+const contract_address = "0xd2b59C177aB438A31a8181809F46506d4319B78D";
 var account = web3.eth.accounts[0];
 
 function startApp(web3) {
